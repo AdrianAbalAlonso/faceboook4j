@@ -18,7 +18,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Nabor
+ * @author Adrián
  */
 public class Ventana extends javax.swing.JFrame {
 
